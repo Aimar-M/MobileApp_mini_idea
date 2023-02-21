@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/rushgrocery/BuildConfig.java
+ com.example.rushgrocery.BuildConfig

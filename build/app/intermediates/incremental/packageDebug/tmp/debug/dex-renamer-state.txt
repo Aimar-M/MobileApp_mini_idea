@@ -1,0 +1,4 @@
+#Wed Feb 22 01:33:59 CAT 2023
+base.0=C\:\\Users\\Hp\\Desktop\\mini-project\\MobileApp_mini_idea\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
