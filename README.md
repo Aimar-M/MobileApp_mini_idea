@@ -40,7 +40,7 @@ Built With
 
 Authors
 
-    Jane Doe - janedoe
+    Aimar, Kasparov, Raissa
 
 Acknowledgments
 
